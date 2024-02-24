@@ -16,11 +16,11 @@ for completion of this project you need good enough knowledge of Grid and Flex.
 
 ### Screenshot
 
-![Desktop Layout](./screenshot/Desktop-Layout.png)
+![Desktop Layout](./screenshot/desktopLayout.png)
 
-![Mobile Layout](./screenshot/Mobile-Layout.png)
+![Mobile Layout](./screenshot/mobileLayout.png)
 
-![Mobile Layout Second](./screenshot/Mobile-Layout-Second.png)
+![Mobile Layout Second](./screenshot/mobileLayoutSecond.png)
 ### Links
 
 - Solution URL: [Github](https://github.com/abno-24/Social-Proof)
